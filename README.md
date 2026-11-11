@@ -1,4 +1,4 @@
-Introduction to Statistical Inference
+Mètodes estadístics en assaigs controlats i anàlisi de supervivència
 ================
 
 ## Sobre aquest repositori
